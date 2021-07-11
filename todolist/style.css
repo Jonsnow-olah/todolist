@@ -1,0 +1,18 @@
+.nav a {
+    text-decoration: none;
+    padding-left: 15%;
+}
+
+.heading {
+    padding-left: 35%;
+}
+
+input[type=text] {
+  margin-left: 35%;
+  margin-top: 3%;  
+}
+
+.btn {
+    margin-left: 35%;
+    margin-top: 2%;
+}
